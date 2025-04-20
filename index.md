@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-orange.svg?style=for-the-badge&logo=gmail)](mailto:nathan.johnson@example.com "I can help you!")&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/nathanJohnson11/nathanJohnson11.github.io?style=for-the-badge&logo=github "ePortfolio Last Update")
-
 ## Welcome
 
 This ePortfolio integrates the knowledge and skills I gained and developed throughout my Computer Science program at Southern New Hampshire University (SNHU). It represents my growth in the program and showcases my abilities across key areas of computer science. The ePortfolio is designed to demonstrate my professional-quality technical skills and communication abilities in a coherent, technically sound manner.
