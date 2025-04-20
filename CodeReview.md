@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-## Refinement Plan and Code Review
+## Code Review
 
 ---
 
@@ -29,6 +29,10 @@ The artifact selected for the software design and engineering code review is the
 
 ---
 
+Artifact enhancement files repository at [Software Design and Engineering - 3D Scene Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Originial/CS330%20-%20Software%20Design%20and%20Engineering "View Enhanced Source Code")
+
+---
+
 ### Algorithms and Data Structure Enhancements
 
 The code review in algorithms and data structure is the artifact of the **Contact Service**. The program was planned, designed, and developed as part of the CS 320: Software Testing, Automation, and Quality Assurance computer science course. The program aims to create a contact management system with CRUD functionality. The program is developed in the Java programming language. The enhancement planned to implement is to replace the ArrayList-based storage with a HashMap for O(1) lookup operations, optimize the update function, and improve error handling and validation.
@@ -39,6 +43,10 @@ The code review in algorithms and data structure is the artifact of the **Contac
     </div>
     <p><em>Figure 2 - Algorithms and Data Structure Code Review Video</em></p>
 </div>
+
+---
+
+Artifact enhancement files repository at [Algorithms and Data Structure - Contact Service Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Original/CS320%20-%20Algorithms%20and%20Data%20Structure "View Enhanced Source Code")
 
 ---
 
@@ -55,10 +63,7 @@ The code review in databases is the artifact of **Animal Shelter Database Interf
 
 ---
 
-Artifact original files repository:
-- [Software Design and Engineering - 3D Scene Original](artifacts/original/3DScene_Original.cpp "View Original Source Code")
-- [Algorithms and Data Structure - Contact Service Original](artifacts/original/ContactService_Original.java "View Original Source Code")
-- [Databases - Animal Shelter Original](artifacts/original/animal_shelter_Original.py "View Original Source Code")
+Artifact original files repository at [Databases - Animal Shelter Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Original/CS340%20-%20Databases "View Enhanced Source Code")
 
 ---
 
