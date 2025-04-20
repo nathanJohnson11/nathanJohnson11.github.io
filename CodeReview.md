@@ -22,7 +22,7 @@ The artifact selected for the software design and engineering code review is the
 
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/watch?v=m-xxEpfoQsI" title="Code Review: Software Design and Engineering Artifact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=42" title="Code Review: Software Design and Engineering Artifact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <p><em>Figure 1 - Software Design and Engineering Code Review Video</em></p>
 </div>
@@ -39,7 +39,7 @@ The code review in algorithms and data structure is the artifact of the **Contac
 
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/watch?v=m-xxEpfoQsI" title="Code Review: Algorithms and Data Structure Artifact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=267" title="Code Review: Algorithms and Data Structure Artifact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <p><em>Figure 2 - Algorithms and Data Structure Code Review Video</em></p>
 </div>
@@ -56,7 +56,7 @@ The code review in databases is the artifact of **Animal Shelter Database Interf
 
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube-nocookie.com/embed/YOUR_VIDEO_ID_3?rel=0" title="Code Review: Databases Artifact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=513" title="Code Review: Databases Artifact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <p><em>Figure 3 - Databases Code Review Video</em></p>
 </div>
