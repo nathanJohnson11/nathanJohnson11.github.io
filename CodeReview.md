@@ -29,7 +29,7 @@ The artifact selected for the software design and engineering code review is the
 
 ---
 
-Artifact enhancement files repository at [Software Design and Engineering - 3D Scene Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Originial/CS330%20-%20Software%20Design%20and%20Engineering "View Enhanced Source Code")
+Artifact original files repository at [Software Design and Engineering - 3D Scene Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Original/CS330%20-%20Software%20Design%20and%20Engineering "View Enhanced Source Code")
 
 ---
 
@@ -46,7 +46,7 @@ The code review in algorithms and data structure is the artifact of the **Contac
 
 ---
 
-Artifact enhancement files repository at [Algorithms and Data Structure - Contact Service Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Original/CS320%20-%20Algorithms%20and%20Data%20Structure "View Enhanced Source Code")
+Artifact original files repository at [Algorithms and Data Structure - Contact Service Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Original/CS320%20-%20Algorithms%20and%20Data%20Structure "View Enhanced Source Code")
 
 ---
 
