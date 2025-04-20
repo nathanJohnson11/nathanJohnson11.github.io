@@ -1,0 +1,48 @@
+/* Style the container with a rounded border, grey background and some padding and margin */
+.review-container {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+/* Clear floats after containers */
+.review-container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Float images inside the container to the left. Add a right margin, and style the image as a circle */
+.review-container img {
+  float: left;
+  margin-right: 20px;
+  border: 2px solid #ccc;
+  border-radius: 50%;
+  width: 100px;
+}
+
+/* Center p element with img element */
+.review-container p {
+  margin-top: 20px;
+}
+
+/* Increase the font-size of a span element */
+.review-container span {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+/* Add media queries for responsiveness. This will center both the text and the image inside the container */
+@media (max-width: 960px) {
+  .review-container {
+    text-align: center;
+  }
+
+  .review-container img {
+    margin: auto;
+    float: none;
+    display: block;
+  }
+}
