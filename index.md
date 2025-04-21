@@ -52,7 +52,14 @@ The artifact selected for the software design and engineering code review is the
 
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=42" title="Code Review: Software Design and Engineering Artifact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+                src="https://www.youtube.com/embed/v8GR4FAJVE8?si=F-Lun8ZZu4chWQr8" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                referrerpolicy="strict-origin-when-cross-origin" 
+                allowfullscreen>
+        </iframe>
     </div>
     <p><em>Figure 1 - Software Design and Engineering Code Review Video</em></p>
 </div>
