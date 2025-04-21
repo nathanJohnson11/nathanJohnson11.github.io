@@ -1,169 +1,38 @@
-/* Body styling */
-body {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  color: #333333;
-  line-height: 1.6;
+/* Override header background color and font */
+header {
+  background: #2f4779 !important; /* Dark blue background */
+  padding: 40px 0;
 }
 
-/* Main content styling */
-#main-content {
-  background-color: #ffffff;
-  padding: 30px;
-  border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+header h1 {
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 3.2rem !important;
+  font-weight: 700 !important;
+  color: #ffffff !important; /* White text */
+  margin-bottom: 12px !important;
+  letter-spacing: 0.5px;
 }
 
-/* Headings */
-h2 {
-  font-size: 2.2rem;
-  color: #2f4779;
-  margin-top: 40px;
-  margin-bottom: 20px;
-  border-bottom: 2px solid #eaeaea;
-  padding-bottom: 10px;
+header h2 {
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 1.2rem !important;
+  font-weight: 400 !important;
+  color: #e6e6e6 !important; /* Light gray text */
+  letter-spacing: 0.3px;
 }
 
-h3 {
-  font-size: 1.6rem;
-  color: #2f4779;
-  margin-top: 30px;
-  margin-bottom: 15px;
+header .button {
+  background: rgba(255, 255, 255, 0.2) !important;
+  border: 2px solid rgba(255, 255, 255, 0.4) !important;
+  box-shadow: none !important;
+  color: #ffffff !important;
+  transition: all 0.3s ease;
 }
 
-/* Links */
-a {
-  color: #0366d6;
-  text-decoration: none;
-  transition: color 0.2s ease;
+header .button:hover {
+  background: rgba(255, 255, 255, 0.3) !important;
 }
 
-a:hover {
-  color: #1a90ff;
-  text-decoration: underline;
-}
-
-/* Table of contents links */
-.table-of-content a {
-  display: inline-block;
-  margin: 5px 0;
-}
-
-/* Figures and images */
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 4px;
-}
-
-figure {
-  margin: 30px 0;
-}
-
-figcaption {
-  font-style: italic;
-  text-align: center;
-  color: #666;
-  margin-top: 10px;
-}
-
-/* Code blocks */
-pre, code {
-  background-color: #f6f8fa;
-  border-radius: 3px;
-  font-family: Consolas, Monaco, 'Andale Mono', monospace;
-}
-
-pre {
-  padding: 16px;
-  overflow: auto;
-  line-height: 1.45;
-  border: 1px solid #ddd;
-}
-
-code {
-  padding: 2px 5px;
-}
-
-/* Paragraph spacing */
-p {
-  margin-bottom: 20px;
-}
-
-/* Horizontal rule styling */
-hr {
-  border: 0;
-  height: 1px;
-  background: #ddd;
-  margin: 40px 0;
-}
-
-/* Review container styling (keeping your existing style) */
-.review-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 20px;
-  background-color: #f9f9f9;
-  border-left: 6px solid #4a90e2;
-  border-radius: 12px;
-  padding: 24px;
-  margin: 24px 0;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
-}
-
-/* Image styling */
-.review-container img {
-  flex-shrink: 0;
-  width: 80px;
-  height: 80px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 3px solid #4a90e2;
-}
-
-/* Content styling */
-.review-container .review-text {
-  flex-grow: 1;
-}
-
-.review-container .review-text p {
-  margin: 0 0 8px;
-  color: #333;
-  font-size: 16px;
-  line-height: 1.4;
-}
-
-.review-container .review-text span {
-  font-size: 18px;
-  font-weight: 600;
-  color: #4a90e2;
-}
-
-/* Responsive adjustments for mobile */
-@media (max-width: 768px) {
-  #main-content {
-    padding: 20px;
-  }
-  
-  h2 {
-    font-size: 1.8rem;
-  }
-  
-  h3 {
-    font-size: 1.4rem;
-  }
-  
-  .review-container {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .review-container img {
-    margin-bottom: 16px;
-  }
-
-  .review-container .review-text {
-    width: 100%;
-  }
+.inner {
+  max-width: 1100px !important;
 }
