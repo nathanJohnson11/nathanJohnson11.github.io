@@ -128,6 +128,11 @@ Classes lock data away while global variables leave everything exposed. Security
 
 Isolation matters in software design. When shapes live in their own classes, problems stay contained within clear boundaries instead of spreading throughout the codebase. Bugs have fewer places to hide, and changes to one component hurt less because they don't ripple through the entire system. OpenGL and object design don't naturally work together. OpenGL needs state while objects need independence. Finding balance between them was the main challenge. Testing each piece after changes kept the program working correctly. Over time, messy code became organized design. The program runs better now and is easier to update.
 
+---
+
+Artifact enhancement files repository at [Software Design and Engineering - 3D Scene Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Enhanced/CS330%20-%20Software%20Design%20and%20Engineering "View Enhanced Source Code")
+
+---
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img id="algorithms" src="assets/img/algorithms.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
@@ -154,6 +159,11 @@ Data structures matter in algorithm design. A HashMap gives immediate access wit
 
 Performance matters in software development. When contacts are stored in a HashMap, operations stay high-speed even as the database grows. Searches don't get slower with more contacts, and updates happen immediately because the system knows exactly where to look. Time complexity and space requirements don't always align. HashMaps need more memory than arrays, but they save tremendous time. Finding this balance was the main challenge. The program handles larger datasets now and responds much faster. This project taught me how important data structure selection is for any software engineer working with data-intensive applications.
 
+---
+
+Artifact enhancement files repository at [Algorithms and Data Structure - Contact Service Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Enhanced/CS320%20-%20Algorithms%20and%20Data%20Structure "View Enhanced Source Code")
+
+---
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img id="databases" src="assets/img/databases.png" alt="Databases" title="Databases" />
@@ -180,4 +190,9 @@ Database security matters in software development. When credentials are stored a
 
 The enhancements I made to this artifact demonstrate my ability to develop professional database interfaces that prioritize security, reliability, and performance. Error handling proved more complex than expected. MongoDB can throw different types of exceptions, and properly catching each type required studying both Python's exception system and MongoDB's error documentation. The enhanced database module now has the security, reliability, and performance features needed for a real production environment. This project taught me how important query optimization is for database systems, and how important a skill it is for any software engineer working with data-intensive applications.
 
+---
+
+Artifact enhancement files repository at [Databases - Animal Shelter Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Enhanced/CS340%20-%20Databases "View Enhanced Source Code")
+
+---
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
