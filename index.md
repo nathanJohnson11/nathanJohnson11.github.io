@@ -135,11 +135,6 @@ I chose a 3D graphics project from CS 330: Computational Graphics and Visualizat
 
 This artifact involves proper software design and object-oriented principles. The program worked, but the code was a mess. The main file was bloated with vertex and index generators for different shapes, making it hard to follow. Global variables were scattered everywhere, making it nearly impossible to track data changes. I tackled the problem by refactoring the code and creating a proper class hierarchy. I built a base Shape class and derived classes for specific shapes like Cube, along with specialized types like Light. This restructuring pulled the vertex and index generators into their respective classes, making the code far more organized.
 
-<div style="text-align: center;">
-    <img src="assets/img/3DScene_Screenshot.png" width="800px" title="3D Scene Application Screenshot" />
-    <p><em>Figure 4 - 3D Scene with Base Shape Class and Derived Classes</em></p>
-</div>
-
 The implemented design creates a stronger coding environment by restructuring and modularizing the code. Each shape now has its own defined space, a class that holds not just its form but its behavior. It's now like each of the items is properly stored on shelves rather than scattered across a floor. These shapes are easier to find, maintain, and modify when they each have a designated place in the architecture. Through implementing constructors that accept size parameters, I enhanced the flexibility of shape creation in the program. The Cube class constructor now takes a cubeSize parameter that determines the dimensions of generated vertices.
 
 Classes lock data away while global variables leave everything exposed. Security comes down to controlling who can access what. Private data stays protected, but public data can be changed by anyone. Getters and setters create safe pathways to access information. This professional approach isn't just theoretical, it's practical. The system can now handle new shapes of different sizes without major rewrites. The code also adapts to new needs without extensive modifications to the core system.
@@ -160,11 +155,6 @@ This artifact demonstrates algorithm and data structure optimization. The contac
 
 The implemented optimization improves the design and evaluation of computing solutions that solve a given problem using algorithmic principles and computer science practices. Through optimizing the update function, I made the system more efficient by only changing what's different. The old code replaced everything every time. Now it only updates what actually changed. This saves time and keeps things running smooth, especially when just changing one small detail. The Contact class already had validation in the constructor, but I improved how the service layer works with it to maintain data integrity throughout the system's operation.
 
-<div style="text-align: center;">
-    <img src="assets/img/ContactService_Architecture.png" width="600px" title="Contact Service Architecture" />
-    <p><em>Figure 7 - Optimized Contact Service Architecture</em></p>
-</div>
-
 Data structures matter in algorithm design. A HashMap gives immediate access without searching the entire collection. This approach isn't just theoretical, it's practical. The system can now handle larger contact databases without slowing down. The code also adapts to new requirements more easily because of its more modular design and improved error handling system. I put in better error checks too. The system tests contact IDs and other fields before accepting changes. When something's wrong, it says exactly what the problem is instead of just failing.
 
 Performance matters in software development. When contacts are stored in a HashMap, operations stay high-speed even as the database grows. Searches don't get slower with more contacts, and updates happen immediately because the system knows exactly where to look. Time complexity and space requirements don't always align. HashMaps need more memory than arrays, but they save tremendous time. Finding this balance was the main challenge. The program handles larger datasets now and responds much faster. This project taught me how important data structure selection is for any software engineer working with data-intensive applications.
@@ -182,11 +172,6 @@ I chose a database interaction module from CS 340 called animal_shelter.py. This
 This artifact involves the engineering of practices of validating input data and architect and design with default denial when accessing databases records. This skill develops a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. I improved the system by replacing hardcoded credentials with environment variables. This makes the application more secure by keeping sensitive information out of the source code. Now credentials can be managed separately for different environments.
 
 The implemented data structure is programmatic, where the stored variable values can be used efficiently in different functions and operations. This approach improves the design and evaluation of computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. I added comprehensive error handling with try-except blocks around database operations. The enhanced code now catches specific MongoDB exceptions and provides clear error messages. I also added logging functionality that records errors, warnings and successful operations.
-
-<div style="text-align: center;">
-    <img src="assets/img/animal_shelter Artifact 3.png" width="700px" title="Animal Shelter Database Architecture" />
-    <p><em>Figure 9 - Animal Shelter Database Architecture</em></p>
-</div>
 
 Database security matters in software development. When credentials are stored as environment variables, they're protected from accidental exposure in source control. Through adding unit tests for all CRUD operations, I made the system more reliable. The tests use a separate test database to avoid affecting real data and include setup and teardown methods. I put in database indexing too. By adding indexes to frequently queried fields using MongoDB's createIndex() method, searches are much faster, especially for operations filtering on common fields like breed and location.
 
