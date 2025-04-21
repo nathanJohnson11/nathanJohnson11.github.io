@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 [![Generic badge](https://img.shields.io/badge/tool-Code_Review-red.svg)](https://en.wikipedia.org/wiki/Code_review) [![Generic badge](https://img.shields.io/badge/format-Video-purple.svg)](https://www.youtube.com/) [![Generic badge](https://img.shields.io/badge/skills-Analysis-blue.svg)](https://en.wikipedia.org/wiki/Code_review) [![Generic badge](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
