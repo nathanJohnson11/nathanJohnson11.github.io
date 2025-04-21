@@ -9,7 +9,8 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 ### <u>Table of Content</u>
 
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
-&nbsp;[Code Review](#code-review "Refinement Plan and Code Review")<br/>
+&nbsp;[Course Outcomes](#course-outcomes "Course Outcomes")<br/>
+&nbsp;[Code Review](#code-review "Code Review")<br/>
 &nbsp;[Software Design and Engineering](#software-design "Software Design and Engineering")<br/>
 &nbsp;[Algorithms and Data Structure](#algorithms "Algorithms and Data Structure")<br/>
 &nbsp;[Databases](#databases "Databases")<br/>
@@ -33,6 +34,18 @@ Security became more important to me too. In one of the artifacts I enhanced, I 
 I also improved my time management and adaptability during this program. There were plenty of assignments where I had to learn new tools or figure out unfamiliar concepts under tight deadlines. That kind of problem-solving and flexibility is something I know employers care about, and I’ve had a lot of practice with it now. Whether I’m writing a recursive algorithm, designing a user interface, or organizing a database schema, I’ve learned how to break the problem down and come up with solid, reliable solutions.
 
 All in all, this program gave me the technical foundation and the real-world experience I needed to be ready for a software development job. I know how to plan and build full systems, how to work in a team setting, and how to keep learning as technology changes. The capstone helped me pull all of it together and show how far I’ve come, and I feel ready to take the next step into the professional world.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Course Outcomes
+### Across my ePortfolio, through both the artifacts and their narratives, I demonstrate key skills and knowledge that align with the following outcomes:
+- I Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+  - I Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+  - I Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+  - I Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+  - I Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+Here is a the complete narratives on how I achieved these outcomes [(Click Here)](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/narratives)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
