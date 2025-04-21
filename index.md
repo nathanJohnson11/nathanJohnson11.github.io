@@ -39,11 +39,11 @@ All in all, this program gave me the technical foundation and the real-world exp
 
 ## Course Outcomes
 ### Across my ePortfolio, through both the artifacts and their narratives, I demonstrate key skills and knowledge that align with the following outcomes:
-- I Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
-  - I Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
-  - I Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
-  - I Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
-  - I Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+  - I Employed strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+  - I Designed, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+  - I Designed and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+  - I Demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+  - I Developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
 Here is a the complete narratives on how I achieved these outcomes [(Click Here)](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/narratives)
 
