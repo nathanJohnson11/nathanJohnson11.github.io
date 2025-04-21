@@ -20,11 +20,11 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 
 ## Professional Self-Assessment
 
-Throughout my journey in the Computer Science program at Southern New Hampshire University, I have developed a comprehensive set of skills that have prepared me for success in the software development industry. This ePortfolio showcases my growth and expertise in key areas of computer science, including software engineering, algorithms and data structures, and database management.
+I’ve picked up a lot of skills during my time in the Computer Science program at SNHU that’ve helped me get ready for a job in software development. This ePortfolio shows how I’ve grown in areas like software engineering, algorithms, data structures, and working with databases.
 
-My time in the Computer Science program has been one of continuous learning and improvement. Each course built upon the foundational concepts learned in previous classes, allowing me to develop a deep understanding of software development principles. Starting with basic programming concepts, I progressed through more complex topics such as object-oriented design, data structures, algorithm efficiency, database design, and software security.
+The whole program was basically a steady build-up. Every class added something new on top of what I already knew. I started out with the basics like writing simple code, then moved on to more detailed stuff like object-oriented design, data structures, how to make algorithms run better, and how to set up and manage databases. I also learned about keeping software secure, which is a big deal these days.
 
-The capstone course has been instrumental in bringing together everything I've learned into a cohesive portfolio that demonstrates my abilities as a software engineer. Through enhancing existing projects, I've been able to showcase my technical skills while also demonstrating my ability to collaborate, communicate effectively, and consider security in software design.
+The capstone course really pulled everything together. I went back and improved some of my earlier projects, and through that, I was able to show off what I’ve learned—both in terms of writing code and also working with others, thinking through problems, and keeping security in mind while building software.
 
 | **Technical Skills** | **Soft Skills** |
 |:-----------:|:-----------:|
@@ -37,11 +37,11 @@ The capstone course has been instrumental in bringing together everything I've l
 | Algorithm Optimization | Organization |
 | Database Management | Adaptability |
 
-Collaboration is essential in modern software development. Throughout my coursework, I've participated in team-based projects that mirrored real-world development environments. I've learned to use version control systems like Git effectively, communicate technical concepts clearly to both technical and non-technical team members, and provide constructive code reviews to ensure code quality.
+Working with others is a big part of software development now, and I’ve gotten a lot of practice with that. I’ve done group projects where we used tools like Git to stay on the same page. I also had to explain code and ideas in ways that made sense to people with different levels of experience. Doing code reviews with classmates taught me how to give and take feedback in a helpful way.
 
-In my professional experience, I've worked in agile development environments, participating in daily stand-ups, sprint planning, and retrospectives. I understand the importance of clear communication, respect for diverse perspectives, and the need to balance individual contributions with team goals. These collaborative experiences have taught me how to be both an effective leader and a supportive team member.
+In the real world, I’ve been part of agile teams where we had daily check-ins, planned out work in sprints, and looked back at how things went afterward. I’ve learned how to share ideas clearly, respect other people’s input, and balance my own work with the team’s goals. I’ve had chances to lead, but I’ve also learned how to be a strong team player.
 
-Effective communication with stakeholders is crucial for project success. Throughout my academic career, I've developed the ability to translate complex technical concepts into language that non-technical stakeholders can understand. I've learned to create clear, professional documentation, deliver effective presentations, and adapt my communication style to different audiences.
+Being able to explain things in plain English is just as important as writing good code. During school, I had to break down tough concepts so others could get them, even if they weren’t into tech. I got better at writing solid documentation, giving clear presentations, and changing how I talk depending on who I’m talking to.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
