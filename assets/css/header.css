@@ -1,9 +1,38 @@
 /* Override header background color and font */
 header {
-  background: #your-color-here !important; /* Replace with your desired color */
+  background: #2f4779 !important; /* Dark blue background */
+  padding: 40px 0;
 }
 
-header h1, header h2 {
-  font-family: "Your Font Name", sans-serif !important; /* Replace with your desired font */
-  color: #your-text-color !important; /* Replace with your desired text color */
+header h1 {
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 3.2rem !important;
+  font-weight: 700 !important;
+  color: #ffffff !important; /* White text */
+  margin-bottom: 12px !important;
+  letter-spacing: 0.5px;
+}
+
+header h2 {
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 1.2rem !important;
+  font-weight: 400 !important;
+  color: #e6e6e6 !important; /* Light gray text */
+  letter-spacing: 0.3px;
+}
+
+header .button {
+  background: rgba(255, 255, 255, 0.2) !important;
+  border: 2px solid rgba(255, 255, 255, 0.4) !important;
+  box-shadow: none !important;
+  color: #ffffff !important;
+  transition: all 0.3s ease;
+}
+
+header .button:hover {
+  background: rgba(255, 255, 255, 0.3) !important;
+}
+
+.inner {
+  max-width: 1100px !important;
 }
