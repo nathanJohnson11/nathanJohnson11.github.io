@@ -53,7 +53,7 @@ The artifact selected for the software design and engineering code review is the
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                src="https://www.youtube.com/embed/v8GR4FAJVE8?si=F-Lun8ZZu4chWQr8" 
+                src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=42" 
                 title="YouTube video player" 
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -71,7 +71,7 @@ The code review in algorithms and data structure is the artifact of the **Contac
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                src="https://www.youtube.com/embed/v8GR4FAJVE8?si=F-Lun8ZZu4chWQr8" 
+                src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=269" 
                 title="YouTube video player" 
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -90,7 +90,7 @@ The code review in databases is the artifact of **Animal Shelter Database Interf
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                src="https://www.youtube.com/embed/v8GR4FAJVE8?si=F-Lun8ZZu4chWQr8" 
+                src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=514" 
                 title="YouTube video player" 
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
