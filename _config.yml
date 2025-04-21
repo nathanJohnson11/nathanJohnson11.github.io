@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
 title: Nathan Johnson's ePortfolio
 description: SNHU CS499 - Computer Science Capstone
-show_downloads: false
+markdown: kramdown
