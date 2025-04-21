@@ -17,8 +17,6 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img id="self-assessment" src="assets/img/selfassessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
-
 ## Professional Self-Assessment
 
 Looking back on my time in the Computer Science program, I can say I’ve grown a lot, both in how I write code and in how I approach problems. Before starting this degree, I had a decent foundation, but now I’ve got a much stronger handle on things like software engineering, algorithms, database design, and working on a team in a real-world way. I’ve learned how to build better systems, write more maintainable code, and communicate more clearly with both technical folks and non-technical stakeholders.
@@ -48,8 +46,6 @@ All in all, this program gave me the technical foundation and the real-world exp
 Here is a the complete narratives on how I achieved these outcomes [(Click Here)](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/narratives)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<img id="code-review" src="assets/img/codereview.png" alt="Code Review" title="Code Review" />
 
 ## Code Review
 
@@ -133,8 +129,6 @@ Artifact original files repository at [Databases - Animal Shelter Enhancement](h
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img id="software-design" src="assets/img/softwaredesign.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
-
 ## Software Design and Engineering
 
 I chose a 3D graphics project from CS 330: Computational Graphics and Visualization. This program, built in C++ with OpenGL, renders a fully navigable three-dimensional world. It features textured objects, dynamic lighting, and realistic shading. Users can move freely through the scene, looking at objects from any angle while the lighting shifts in real time. The program uses ambient and directional lighting models, along with texture mapping, to create an immersive experience that reacts to user input.
@@ -163,8 +157,6 @@ Artifact enhancement files repository at [Software Design and Engineering - 3D S
 
 ---
 
-<img id="algorithms" src="assets/img/algorithms.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
-
 ## Algorithms and Data Structure
 
 I chose a contact management system from CS 320. This program, built in Java, handles a database of contacts with core CRUD functionality. It stores personal information like names, phone numbers, and addresses. Users can add new contacts, update existing information, delete contacts, and retrieve specific records by ID. The original implementation used an ArrayList-based storage system that worked adequately for small datasets but would struggle with larger collections of contacts.
@@ -192,8 +184,6 @@ Performance matters in software development. When contacts are stored in a HashM
 Artifact enhancement files repository at [Algorithms and Data Structure - Contact Service Enhancement](https://github.com/nathanJohnson11/nathanJohnson11.github.io/tree/main/artifacts/Enhanced/CS320%20-%20Algorithms%20and%20Data%20Structure "View Enhanced Source Code")
 
 ---
-
-<img id="databases" src="assets/img/databases.png" alt="Databases" title="Databases" />
 
 ## Databases
 
