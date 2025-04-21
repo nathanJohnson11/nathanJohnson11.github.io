@@ -24,7 +24,7 @@ I’ve picked up a lot of skills during my time in the Computer Science program 
 
 The whole program was basically a steady build-up. Every class added something new on top of what I already knew. I started out with the basics like writing simple code, then moved on to more detailed stuff like object-oriented design, data structures, how to make algorithms run better, and how to set up and manage databases. I also learned about keeping software secure, which is a big deal these days.
 
-The capstone course really pulled everything together. I went back and improved some of my earlier projects, and through that, I was able to show off what I’ve learned—both in terms of writing code and also working with others, thinking through problems, and keeping security in mind while building software.
+The capstone course really pulled everything together. I went back and improved some of my earlier projects, and through that, I was able to show off what I’ve learned, both in terms of writing code and also working with others, thinking through problems, and keeping security in mind while building software.
 
 | **Technical Skills** | **Soft Skills** |
 |:-----------:|:-----------:|
