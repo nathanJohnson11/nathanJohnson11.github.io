@@ -53,8 +53,8 @@ The artifact selected for the software design and engineering code review is the
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=42" 
-                title="YouTube video player" 
+                src="https://www.youtube.com/embed/m-xxEpfoQsI?start=42" 
+                title="Software Design and Engineering Code Review Video" 
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                 referrerpolicy="strict-origin-when-cross-origin" 
@@ -71,8 +71,8 @@ The code review in algorithms and data structure is the artifact of the **Contac
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=269" 
-                title="YouTube video player" 
+                src="https://www.youtube.com/embed/m-xxEpfoQsI?start=269" 
+                title="Algorithms and Data Structure Code Review Video" 
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                 referrerpolicy="strict-origin-when-cross-origin" 
@@ -82,7 +82,6 @@ The code review in algorithms and data structure is the artifact of the **Contac
     <p><em>Figure 2 - Algorithms and Data Structure Code Review Video</em></p>
 </div>
 
-
 ### Databases Enhancements
 
 The code review in databases is the artifact of **Animal Shelter Database Interface**. The program was planned, designed, and developed for the CS 340 Client-Server Development computer science course. The application aims to create a database interface that connects to MongoDB for managing animal shelter data. The application is developed in Python with the PyMongo driver. The planned enhancement is to implement environment variables for database credentials, add comprehensive error handling and logging, optimize queries with database indexes, and create a unit testing framework.
@@ -90,8 +89,8 @@ The code review in databases is the artifact of **Animal Shelter Database Interf
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                src="https://youtu.be/m-xxEpfoQsI?feature=shared&t=514" 
-                title="YouTube video player" 
+                src="https://www.youtube.com/embed/m-xxEpfoQsI?start=514" 
+                title="Databases Code Review Video" 
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                 referrerpolicy="strict-origin-when-cross-origin" 
@@ -100,7 +99,6 @@ The code review in databases is the artifact of **Animal Shelter Database Interf
     </div>
     <p><em>Figure 3 - Databases Code Review Video</em></p>
 </div>
-
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
