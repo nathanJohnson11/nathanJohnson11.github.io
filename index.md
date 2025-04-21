@@ -184,7 +184,7 @@ This artifact involves the engineering of practices of validating input data and
 The implemented data structure is programmatic, where the stored variable values can be used efficiently in different functions and operations. This approach improves the design and evaluation of computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. I added comprehensive error handling with try-except blocks around database operations. The enhanced code now catches specific MongoDB exceptions and provides clear error messages. I also added logging functionality that records errors, warnings and successful operations.
 
 <div style="text-align: center;">
-    <img src="assets/img/AnimalShelter_Architecture.png" width="700px" title="Animal Shelter Database Architecture" />
+    <img src="assets/img/animal_shelter Artifact 3.png" width="700px" title="Animal Shelter Database Architecture" />
     <p><em>Figure 9 - Animal Shelter Database Architecture</em></p>
 </div>
 
