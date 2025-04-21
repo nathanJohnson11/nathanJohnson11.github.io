@@ -142,11 +142,6 @@ This artifact involves proper software design and object-oriented principles. Th
 
 The implemented design creates a stronger coding environment by restructuring and modularizing the code. Each shape now has its own defined space, a class that holds not just its form but its behavior. It's now like each of the items is properly stored on shelves rather than scattered across a floor. These shapes are easier to find, maintain, and modify when they each have a designated place in the architecture. Through implementing constructors that accept size parameters, I enhanced the flexibility of shape creation in the program. The Cube class constructor now takes a cubeSize parameter that determines the dimensions of generated vertices.
 
-<div style="text-align: center;">
-    <img src="assets/img/3DScene_ClassDiagram.png" width="600px" title="Class Hierarchy Diagram" />
-    <p><em>Figure 5 - Class Hierarchy After Refactoring</em></p>
-</div>
-
 Classes lock data away while global variables leave everything exposed. Security comes down to controlling who can access what. Private data stays protected, but public data can be changed by anyone. Getters and setters create safe pathways to access information. This professional approach isn't just theoretical, it's practical. The system can now handle new shapes of different sizes without major rewrites. The code also adapts to new needs without extensive modifications to the core system.
 
 Isolation matters in software design. When shapes live in their own classes, problems stay contained within clear boundaries instead of spreading throughout the codebase. Bugs have fewer places to hide, and changes to one component hurt less because they don't ripple through the entire system. OpenGL and object design don't naturally work together. OpenGL needs state while objects need independence. Finding balance between them was the main challenge. Testing each piece after changes kept the program working correctly. Over time, messy code became organized design. The program runs better now and is easier to update.
@@ -162,11 +157,6 @@ Artifact enhancement files repository at [Software Design and Engineering - 3D S
 I chose a contact management system from CS 320. This program, built in Java, handles a database of contacts with core CRUD functionality. It stores personal information like names, phone numbers, and addresses. Users can add new contacts, update existing information, delete contacts, and retrieve specific records by ID. The original implementation used an ArrayList-based storage system that worked adequately for small datasets but would struggle with larger collections of contacts.
 
 This artifact demonstrates algorithm and data structure optimization. The contact system worked, but performance was an issue. The ArrayList implementation meant every operation required scanning through the entire list, making searches slow as contact numbers grew. I improved the system by replacing the ArrayList with a HashMap for contact storage. Using contact IDs as keys dramatically improved lookup speed. This change reduced search, update, and delete operations from O(n) time complexity to O(1), making the system much faster. While an ArrayList needs to check every contact until it finds the right one, a HashMap jumps straight to the correct record.
-
-<div style="text-align: center;">
-    <img src="assets/img/ContactService_Complexity.png" width="600px" title="Time Complexity Comparison" />
-    <p><em>Figure 6 - Time Complexity Comparison: ArrayList vs HashMap</em></p>
-</div>
 
 The implemented optimization improves the design and evaluation of computing solutions that solve a given problem using algorithmic principles and computer science practices. Through optimizing the update function, I made the system more efficient by only changing what's different. The old code replaced everything every time. Now it only updates what actually changed. This saves time and keeps things running smooth, especially when just changing one small detail. The Contact class already had validation in the constructor, but I improved how the service layer works with it to maintain data integrity throughout the system's operation.
 
@@ -190,11 +180,6 @@ Artifact enhancement files repository at [Algorithms and Data Structure - Contac
 I chose a database interaction module from CS 340 called animal_shelter.py. This program, built in Python, connects to a MongoDB database and manages animal shelter data. It provides basic CRUD operations (Create, Read, Update, Delete) for adding new animal records, updating existing information, deleting records, and retrieving specific data. The original implementation used hardcoded database credentials and had minimal error handling. The program successfully connected to the database and performed basic functions but lacked security features and performance optimizations needed in a real production environment.
 
 This artifact involves the engineering of practices of validating input data and architect and design with default denial when accessing databases records. This skill develops a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. I improved the system by replacing hardcoded credentials with environment variables. This makes the application more secure by keeping sensitive information out of the source code. Now credentials can be managed separately for different environments.
-
-<div style="text-align: center;">
-    <img src="assets/img/AnimalShelter_Demo.png" width="800px" title="Animal Shelter Database Interface Demo" />
-    <p><em>Figure 8 - Animal Shelter Database Interface Demonstration</em></p>
-</div>
 
 The implemented data structure is programmatic, where the stored variable values can be used efficiently in different functions and operations. This approach improves the design and evaluation of computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. I added comprehensive error handling with try-except blocks around database operations. The enhanced code now catches specific MongoDB exceptions and provides clear error messages. I also added logging functionality that records errors, warnings and successful operations.
 
