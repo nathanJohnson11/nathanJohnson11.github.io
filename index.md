@@ -9,7 +9,7 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 ### <u>Table of Content</u>
 
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
-&nbsp;[Refinement Plan and Code Review](#code-review "Refinement Plan and Code Review")<br/>
+&nbsp;[Code Review](#code-review "Refinement Plan and Code Review")<br/>
 &nbsp;[Software Design and Engineering](#software-design "Software Design and Engineering")<br/>
 &nbsp;[Algorithms and Data Structure](#algorithms "Algorithms and Data Structure")<br/>
 &nbsp;[Databases](#databases "Databases")<br/>
@@ -20,28 +20,15 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 
 ## Professional Self-Assessment
 
-I’ve picked up a lot of skills during my time in the Computer Science program at SNHU that’ve helped me get ready for a job in software development. This ePortfolio shows how I’ve grown in areas like software engineering, algorithms, data structures, and working with databases.
+Throughout my time in the Computer Science program, I’ve developed a stronger understanding of core concepts like software engineering, algorithms, and databases. I’ve learned how to write cleaner, more maintainable code and how to approach technical problems in a structured way. This growth really came through during the capstone, where I reflected on past projects and improved them with what I’ve learned since.
 
-The whole program was basically a steady build-up. Every class added something new on top of what I already knew. I started out with the basics like writing simple code, then moved on to more detailed stuff like object-oriented design, data structures, how to make algorithms run better, and how to set up and manage databases. I also learned about keeping software secure, which is a big deal these days.
+In the capstone, I chose three artifacts that highlight different skills: software design, data structures, and databases. Updating these projects showed how much my coding practices have improved, especially when it comes to organizing code, applying security measures, and focusing on the end-user experience. I added things like prepared statements for database security, better structure for readability, and improvements to user interfaces.
 
-The capstone course really pulled everything together. I went back and improved some of my earlier projects, and through that, I was able to show off what I’ve learned, both in terms of writing code and also working with others, thinking through problems, and keeping security in mind while building software.
+Another big takeaway from this program was getting more comfortable with collaboration tools like Git and GitHub. I’ve worked with Agile-style workflows and documented my work clearly for both technical and non-technical audiences. Communicating effectively has become a key part of how I approach projects now.
 
-| **Technical Skills** | **Soft Skills** |
-|:-----------:|:-----------:|
-| C++ Programming | Problem Solving |
-| Java Development | Critical Thinking |
-| Python & MongoDB | Attention to Detail |
-| OpenGL Graphics | Communication |
-| Object-Oriented Design | Collaboration |
-| Data Structures | Time Management |
-| Algorithm Optimization | Organization |
-| Database Management | Adaptability |
+The program also helped me develop soft skills like time management and adaptability. There were plenty of times I had to pick up new tools or troubleshoot tough problems under deadlines. I’ve learned how to break things down and solve problems efficiently, which I know is important in any job.
 
-Working with others is a big part of software development now, and I’ve gotten a lot of practice with that. I’ve done group projects where we used tools like Git to stay on the same page. I also had to explain code and ideas in ways that made sense to people with different levels of experience. Doing code reviews with classmates taught me how to give and take feedback in a helpful way.
-
-In the real world, I’ve been part of agile teams where we had daily check-ins, planned out work in sprints, and looked back at how things went afterward. I’ve learned how to share ideas clearly, respect other people’s input, and balance my own work with the team’s goals. I’ve had chances to lead, but I’ve also learned how to be a strong team player.
-
-Being able to explain things in plain English is just as important as writing good code. During school, I had to break down tough concepts so others could get them, even if they weren’t into tech. I got better at writing solid documentation, giving clear presentations, and changing how I talk depending on who I’m talking to.
+Overall, this program gave me a strong foundation and real experience applying what I’ve learned. The capstone helped tie it all together, and I feel confident stepping into a software development role with a clear understanding of how to build secure, well-designed systems and work effectively in a team.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
