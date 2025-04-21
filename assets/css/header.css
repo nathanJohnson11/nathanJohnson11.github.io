@@ -1,0 +1,9 @@
+/* Override header background color and font */
+header {
+  background: #your-color-here !important; /* Replace with your desired color */
+}
+
+header h1, header h2 {
+  font-family: "Your Font Name", sans-serif !important; /* Replace with your desired font */
+  color: #your-text-color !important; /* Replace with your desired text color */
+}
